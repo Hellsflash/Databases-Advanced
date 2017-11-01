@@ -1,0 +1,7 @@
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Problem 3. Shopping Spree\bin\Debug\Problem_3.Shopping_Spree.exe.config
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Problem 3. Shopping Spree\bin\Debug\Problem_3.Shopping_Spree.exe
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Problem 3. Shopping Spree\bin\Debug\Problem_3.Shopping_Spree.pdb
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Problem 3. Shopping Spree\obj\Debug\Problem 3. Shopping Spree.csprojResolveAssemblyReference.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Problem 3. Shopping Spree\obj\Debug\Problem 3. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Problem 3. Shopping Spree\obj\Debug\Problem_3.Shopping_Spree.exe
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Problem 3. Shopping Spree\obj\Debug\Problem_3.Shopping_Spree.pdb

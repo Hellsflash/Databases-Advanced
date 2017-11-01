@@ -1,0 +1,7 @@
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Class Box\bin\Debug\Problem_1.Class_Box.exe.config
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Class Box\bin\Debug\Problem_1.Class_Box.exe
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Class Box\bin\Debug\Problem_1.Class_Box.pdb
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Class Box\obj\Debug\Problem 1. Class Box.csprojResolveAssemblyReference.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Class Box\obj\Debug\Problem 1. Class Box.csproj.CoreCompileInputs.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Class Box\obj\Debug\Problem_1.Class_Box.exe
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Encapsulation and Validation Exercises\Class Box\obj\Debug\Problem_1.Class_Box.pdb
