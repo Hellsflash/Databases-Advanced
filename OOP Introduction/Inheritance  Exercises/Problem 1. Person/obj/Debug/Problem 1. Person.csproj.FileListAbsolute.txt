@@ -1,0 +1,7 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 1. Person\bin\Debug\Problem_1.Person.exe.config
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 1. Person\bin\Debug\Problem_1.Person.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 1. Person\bin\Debug\Problem_1.Person.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 1. Person\obj\Debug\Problem 1. Person.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 1. Person\obj\Debug\Problem 1. Person.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 1. Person\obj\Debug\Problem_1.Person.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 1. Person\obj\Debug\Problem_1.Person.pdb

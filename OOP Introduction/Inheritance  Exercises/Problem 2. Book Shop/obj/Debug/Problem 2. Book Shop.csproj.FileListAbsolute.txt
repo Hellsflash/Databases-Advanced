@@ -1,0 +1,7 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.exe.config
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 2. Book Shop\bin\Debug\Problem_2.Book_Shop.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 2. Book Shop\obj\Debug\Problem 2. Book Shop.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 2. Book Shop\obj\Debug\Problem 2. Book Shop.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 2. Book Shop\obj\Debug\Problem_2.Book_Shop.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 2. Book Shop\obj\Debug\Problem_2.Book_Shop.pdb
