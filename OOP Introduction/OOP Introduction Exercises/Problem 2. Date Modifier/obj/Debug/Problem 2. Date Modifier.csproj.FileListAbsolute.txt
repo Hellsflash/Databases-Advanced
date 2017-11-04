@@ -1,0 +1,7 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 2. Date Modifier\bin\Debug\Problem_2.Date_Modifier.exe.config
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 2. Date Modifier\bin\Debug\Problem_2.Date_Modifier.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 2. Date Modifier\bin\Debug\Problem_2.Date_Modifier.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 2. Date Modifier\obj\Debug\Problem 2. Date Modifier.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 2. Date Modifier\obj\Debug\Problem 2. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 2. Date Modifier\obj\Debug\Problem_2.Date_Modifier.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 2. Date Modifier\obj\Debug\Problem_2.Date_Modifier.pdb

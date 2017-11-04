@@ -1,0 +1,7 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 3. Raw Data\bin\Debug\Problem_3.Raw_Data.exe.config
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 3. Raw Data\bin\Debug\Problem_3.Raw_Data.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 3. Raw Data\bin\Debug\Problem_3.Raw_Data.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 3. Raw Data\obj\Debug\Problem 3. Raw Data.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 3. Raw Data\obj\Debug\Problem 3. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 3. Raw Data\obj\Debug\Problem_3.Raw_Data.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 3. Raw Data\obj\Debug\Problem_3.Raw_Data.pdb
