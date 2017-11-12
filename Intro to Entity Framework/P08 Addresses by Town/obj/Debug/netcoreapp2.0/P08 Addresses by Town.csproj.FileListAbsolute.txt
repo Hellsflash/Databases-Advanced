@@ -1,0 +1,25 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P08 Addresses by Town.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P08 Addresses by Town.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P08 Addresses by Town.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P08 Addresses by Town.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P08 Addresses by Town.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\obj\Debug\netcoreapp2.0\P08 Addresses by Town.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\obj\Debug\netcoreapp2.0\P08 Addresses by Town.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\obj\Debug\netcoreapp2.0\P08 Addresses by Town.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\obj\Debug\netcoreapp2.0\P08 Addresses by Town.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P08 Addresses by Town\obj\Debug\netcoreapp2.0\P08 Addresses by Town.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P08 Addresses by Town.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P08 Addresses by Town.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P08 Addresses by Town.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P08 Addresses by Town.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P08 Addresses by Town.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\obj\Debug\netcoreapp2.0\P08 Addresses by Town.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\obj\Debug\netcoreapp2.0\P08 Addresses by Town.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\obj\Debug\netcoreapp2.0\P08 Addresses by Town.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\obj\Debug\netcoreapp2.0\P08 Addresses by Town.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\obj\Debug\netcoreapp2.0\P08 Addresses by Town.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P08 Addresses by Town\obj\Debug\netcoreapp2.0\P08 Addresses by Town.pdb

@@ -1,0 +1,26 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P12 Increase Salaries.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P12 Increase Salaries.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P12 Increase Salaries.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P12 Increase Salaries.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P12 Increase Salaries.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P12 Increase Salaries.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P12 Increase Salaries.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P12 Increase Salaries.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P12 Increase Salaries.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P12 Increase Salaries.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P12 Increase Salaries\obj\Debug\netcoreapp2.0\P12 Increase Salaries.pdb

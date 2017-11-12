@@ -1,0 +1,25 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P14 Delete Project by Id.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P14 Delete Project by Id.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P14 Delete Project by Id.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P14 Delete Project by Id.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P14 Delete Project by Id.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\obj\Debug\netcoreapp2.0\P14 Delete Project by Id.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\obj\Debug\netcoreapp2.0\P14 Delete Project by Id.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\obj\Debug\netcoreapp2.0\P14 Delete Project by Id.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\obj\Debug\netcoreapp2.0\P14 Delete Project by Id.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P14 Delete Project by Id\obj\Debug\netcoreapp2.0\P14 Delete Project by Id.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P14 Delete Project by Id.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P14 Delete Project by Id.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P14 Delete Project by Id.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P14 Delete Project by Id.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P14 Delete Project by Id.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\obj\Debug\netcoreapp2.0\P14 Delete Project by Id.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\obj\Debug\netcoreapp2.0\P14 Delete Project by Id.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\obj\Debug\netcoreapp2.0\P14 Delete Project by Id.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\obj\Debug\netcoreapp2.0\P14 Delete Project by Id.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\obj\Debug\netcoreapp2.0\P14 Delete Project by Id.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P14 Delete Project by Id\obj\Debug\netcoreapp2.0\P14 Delete Project by Id.pdb
