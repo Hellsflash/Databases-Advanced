@@ -1,0 +1,26 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P04 Employees with Salary Over 50 000\obj\Debug\netcoreapp2.0\P04 Employees with Salary Over 50 000.pdb

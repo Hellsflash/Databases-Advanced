@@ -1,0 +1,6 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 7. Animals\bin\Debug\Problem_7.Animals.exe.config
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 7. Animals\bin\Debug\Problem_7.Animals.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 7. Animals\bin\Debug\Problem_7.Animals.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 7. Animals\obj\Debug\Problem 7. Animals.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 7. Animals\obj\Debug\Problem_7.Animals.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 7. Animals\obj\Debug\Problem_7.Animals.pdb

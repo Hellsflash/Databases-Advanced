@@ -1,0 +1,7 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 5. Football Team Generator\bin\Debug\Problem_5.Football_Team_Generator.exe.config
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 5. Football Team Generator\bin\Debug\Problem_5.Football_Team_Generator.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 5. Football Team Generator\bin\Debug\Problem_5.Football_Team_Generator.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 5. Football Team Generator\obj\Debug\Problem 5. Football Team Generator.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 5. Football Team Generator\obj\Debug\Problem 5. Football Team Generator.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 5. Football Team Generator\obj\Debug\Problem_5.Football_Team_Generator.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 5. Football Team Generator\obj\Debug\Problem_5.Football_Team_Generator.pdb

@@ -1,0 +1,13 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\bin\Debug\netcoreapp2.0\P03 Employees Full Information.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\bin\Debug\netcoreapp2.0\P03 Employees Full Information.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\bin\Debug\netcoreapp2.0\P03 Employees Full Information.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\bin\Debug\netcoreapp2.0\P03 Employees Full Information.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\bin\Debug\netcoreapp2.0\P03 Employees Full Information.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\obj\Debug\netcoreapp2.0\P03 Employees Full Information.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\obj\Debug\netcoreapp2.0\P03 Employees Full Information.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\obj\Debug\netcoreapp2.0\P03 Employees Full Information.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\obj\Debug\netcoreapp2.0\P03 Employees Full Information.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\obj\Debug\netcoreapp2.0\P03 Employees Full Information.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P03 Employees Full Information\obj\Debug\netcoreapp2.0\P03 Employees Full Information.pdb

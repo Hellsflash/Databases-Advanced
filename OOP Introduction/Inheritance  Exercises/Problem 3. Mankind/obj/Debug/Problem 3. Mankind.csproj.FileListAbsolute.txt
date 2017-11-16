@@ -1,0 +1,7 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 3. Mankind\bin\Debug\Problem_3.Mankind.exe.config
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 3. Mankind\bin\Debug\Problem_3.Mankind.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 3. Mankind\bin\Debug\Problem_3.Mankind.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 3. Mankind\obj\Debug\Problem 3. Mankind.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 3. Mankind\obj\Debug\Problem 3. Mankind.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 3. Mankind\obj\Debug\Problem_3.Mankind.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Inheritance  Exercises\Problem 3. Mankind\obj\Debug\Problem_3.Mankind.pdb

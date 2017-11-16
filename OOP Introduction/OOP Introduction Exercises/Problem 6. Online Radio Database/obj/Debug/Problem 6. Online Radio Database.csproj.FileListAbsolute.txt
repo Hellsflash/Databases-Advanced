@@ -1,0 +1,7 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 6. Online Radio Database\bin\Debug\Problem_6.Online_Radio_Database.exe.config
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 6. Online Radio Database\bin\Debug\Problem_6.Online_Radio_Database.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 6. Online Radio Database\bin\Debug\Problem_6.Online_Radio_Database.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 6. Online Radio Database\obj\Debug\Problem 6. Online Radio Database.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 6. Online Radio Database\obj\Debug\Problem 6. Online Radio Database.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 6. Online Radio Database\obj\Debug\Problem_6.Online_Radio_Database.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\OOP Introduction Exercises\Problem 6. Online Radio Database\obj\Debug\Problem_6.Online_Radio_Database.pdb
