@@ -1,0 +1,7 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\AnimalFarm\AnimalFarm\obj\Debug\Problem 4. AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\AnimalFarm\AnimalFarm\obj\Debug\Problem 4. AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.pdb

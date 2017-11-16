@@ -1,0 +1,24 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P09 Employee 147.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P09 Employee 147.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P09 Employee 147.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P09 Employee 147.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P09 Employee 147.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\obj\Debug\netcoreapp2.0\P09 Employee 147.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\obj\Debug\netcoreapp2.0\P09 Employee 147.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\obj\Debug\netcoreapp2.0\P09 Employee 147.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\obj\Debug\netcoreapp2.0\P09 Employee 147.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P09 Employee 147\obj\Debug\netcoreapp2.0\P09 Employee 147.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P09 Employee 147.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P09 Employee 147.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P09 Employee 147.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P09 Employee 147.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P09 Employee 147.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\obj\Debug\netcoreapp2.0\P09 Employee 147.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\obj\Debug\netcoreapp2.0\P09 Employee 147.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\obj\Debug\netcoreapp2.0\P09 Employee 147.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\obj\Debug\netcoreapp2.0\P09 Employee 147.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P09 Employee 147\obj\Debug\netcoreapp2.0\P09 Employee 147.pdb

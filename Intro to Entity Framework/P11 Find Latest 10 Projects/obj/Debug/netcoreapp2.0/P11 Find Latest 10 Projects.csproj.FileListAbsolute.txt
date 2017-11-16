@@ -1,0 +1,26 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\bin\Debug\netcoreapp2.0\P02 DatabaseFirst.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Clones\Introduction to Entity Framework\P11 Find Latest 10 Projects\obj\Debug\netcoreapp2.0\P11 Find Latest 10 Projects.pdb
