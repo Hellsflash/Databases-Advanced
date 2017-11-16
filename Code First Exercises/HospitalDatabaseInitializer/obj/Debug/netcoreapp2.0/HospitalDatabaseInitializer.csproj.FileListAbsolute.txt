@@ -1,0 +1,11 @@
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.csprojResolveAssemblyReference.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.csproj.CoreCompileInputs.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.AssemblyInfoInputs.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.AssemblyInfo.cs
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabaseInitializer\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.deps.json
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabaseInitializer\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabaseInitializer\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabaseInitializer\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabaseInitializer\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb

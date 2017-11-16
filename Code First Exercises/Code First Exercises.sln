@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalDatabaseInitializer", "HospitalDatabaseInitializer\HospitalDatabaseInitializer.csproj", "{AD3B1954-00D3-4ADB-BCEB-49E1C1C6AD32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalStartUp", "HospitalStartUp\HospitalStartUp.csproj", "{DE6DC1C5-E09D-4FC5-9D51-D4166FD37701}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_HospitalDatabase", "P01_HospitalDatabase\P01_HospitalDatabase.csproj", "{CA047C8C-26E4-4167-A984-EC6627306FC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HospitalDB", "HospitalDB", "{37CBA7C7-314A-4E0E-B5AE-E1E96DCDA8A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD3B1954-00D3-4ADB-BCEB-49E1C1C6AD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3B1954-00D3-4ADB-BCEB-49E1C1C6AD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3B1954-00D3-4ADB-BCEB-49E1C1C6AD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3B1954-00D3-4ADB-BCEB-49E1C1C6AD32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6DC1C5-E09D-4FC5-9D51-D4166FD37701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6DC1C5-E09D-4FC5-9D51-D4166FD37701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6DC1C5-E09D-4FC5-9D51-D4166FD37701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6DC1C5-E09D-4FC5-9D51-D4166FD37701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA047C8C-26E4-4167-A984-EC6627306FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA047C8C-26E4-4167-A984-EC6627306FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA047C8C-26E4-4167-A984-EC6627306FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA047C8C-26E4-4167-A984-EC6627306FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD3B1954-00D3-4ADB-BCEB-49E1C1C6AD32} = {37CBA7C7-314A-4E0E-B5AE-E1E96DCDA8A2}
+		{DE6DC1C5-E09D-4FC5-9D51-D4166FD37701} = {37CBA7C7-314A-4E0E-B5AE-E1E96DCDA8A2}
+		{CA047C8C-26E4-4167-A984-EC6627306FC4} = {37CBA7C7-314A-4E0E-B5AE-E1E96DCDA8A2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D89A7EF6-9A6E-442F-87FF-C95823403D09}
+	EndGlobalSection
+EndGlobal

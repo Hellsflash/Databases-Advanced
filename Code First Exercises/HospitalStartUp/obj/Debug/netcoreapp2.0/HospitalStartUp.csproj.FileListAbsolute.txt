@@ -1,0 +1,15 @@
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalStartUp.deps.json
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalStartUp.runtimeconfig.json
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalStartUp.runtimeconfig.dev.json
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalStartUp.dll
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.csprojResolveAssemblyReference.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.csproj.CoreCompileInputs.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.AssemblyInfoInputs.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.AssemblyInfo.cs
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalStartUp.pdb
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.dll
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.pdb
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalStartUp\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb

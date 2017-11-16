@@ -1,0 +1,6 @@
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabase\bin\Debug\netstandard2.0\HospitalDatabase.deps.json
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabase\bin\Debug\netstandard2.0\HospitalDatabase.dll
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabase\obj\Debug\netstandard2.0\HospitalDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabase\obj\Debug\netstandard2.0\HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabase\obj\Debug\netstandard2.0\HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\HospitalDatabase\obj\Debug\netstandard2.0\HospitalDatabase.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.deps.json
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfo.cs
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\Helly\Documents\Visual Studio 2017\Projects\Code First Exercises\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
