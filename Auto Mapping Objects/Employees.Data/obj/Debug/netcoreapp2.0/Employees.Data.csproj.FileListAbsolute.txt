@@ -1,0 +1,11 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Auto Mapping Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Auto Mapping Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Auto Mapping Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Auto Mapping Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Auto Mapping Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Auto Mapping Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Data.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Auto Mapping Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Data.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Auto Mapping Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Data.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Auto Mapping Objects\Employees.Data\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Auto Mapping Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Auto Mapping Objects\Employees.Data\obj\Debug\netcoreapp2.0\Employees.Data.pdb
