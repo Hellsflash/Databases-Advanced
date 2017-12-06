@@ -1,0 +1,11 @@
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.deps.json
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.dll
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.pdb
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Models.dll
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Models.pdb
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.csprojResolveAssemblyReference.cache
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.AssemblyInfoInputs.cache
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.AssemblyInfo.cs
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.dll
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.pdb

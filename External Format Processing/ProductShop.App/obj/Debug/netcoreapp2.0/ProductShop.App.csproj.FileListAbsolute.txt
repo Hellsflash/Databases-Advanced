@@ -1,0 +1,15 @@
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Data.dll
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Models.dll
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.csprojResolveAssemblyReference.cache
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.csproj.CoreCompileInputs.cache
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.AssemblyInfoInputs.cache
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.AssemblyInfo.cs
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.deps.json
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.runtimeconfig.json
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.runtimeconfig.dev.json
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.dll
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.App.pdb
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Data.pdb
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\bin\Debug\netcoreapp2.0\ProductShop.Models.pdb
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.dll
+C:\Users\Helly\Source\Repos\External Format Processing\ProductShop.App\obj\Debug\netcoreapp2.0\ProductShop.App.pdb
