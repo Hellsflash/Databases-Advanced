@@ -1,0 +1,9 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.pdb

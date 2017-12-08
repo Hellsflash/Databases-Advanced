@@ -1,0 +1,13 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 1 Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb
