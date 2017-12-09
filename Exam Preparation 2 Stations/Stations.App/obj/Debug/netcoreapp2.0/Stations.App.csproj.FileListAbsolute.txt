@@ -1,0 +1,17 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\bin\Debug\netcoreapp2.0\Stations.App.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\bin\Debug\netcoreapp2.0\Stations.App.runtimeconfig.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\bin\Debug\netcoreapp2.0\Stations.App.runtimeconfig.dev.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\bin\Debug\netcoreapp2.0\Stations.App.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\bin\Debug\netcoreapp2.0\Stations.App.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\bin\Debug\netcoreapp2.0\Stations.Data.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\bin\Debug\netcoreapp2.0\Stations.DataProcessor.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\bin\Debug\netcoreapp2.0\Stations.DataProcessor.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\bin\Debug\netcoreapp2.0\Stations.Data.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\obj\Debug\netcoreapp2.0\Stations.App.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\obj\Debug\netcoreapp2.0\Stations.App.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\obj\Debug\netcoreapp2.0\Stations.App.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\obj\Debug\netcoreapp2.0\Stations.App.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\obj\Debug\netcoreapp2.0\Stations.App.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.App\obj\Debug\netcoreapp2.0\Stations.App.pdb

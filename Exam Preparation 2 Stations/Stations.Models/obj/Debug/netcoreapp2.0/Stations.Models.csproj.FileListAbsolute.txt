@@ -1,0 +1,9 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.pdb

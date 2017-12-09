@@ -1,0 +1,13 @@
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.deps.json
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Data.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Data.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.AssemblyInfoInputs.cache
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.AssemblyInfo.cs
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.dll
+C:\Users\NeahSnake\Documents\Visual Studio 2017\Projects\Exam Preparation 2 Stations\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.pdb
